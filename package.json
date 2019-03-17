@@ -3,12 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/jest": "^24.0.11",
-    "@types/node": "^11.11.3",
-    "@types/react": "^16.8.8",
-    "@types/react-dom": "^16.8.2",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.4.0",
     "react-scripts-ts": "3.1.0",
     "typescript": "^3.3.3333"
   },
@@ -19,6 +17,12 @@
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.11.3",
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "@types/react-redux": "^7.0.3",
+    "@types/react-router-dom": "^4.3.1",
     "tslint": "^5.14.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.0.1",

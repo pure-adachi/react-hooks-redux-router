@@ -1,7 +1,13 @@
-create-react-app react-hooks-redux-router --typescript
+# Tips
 
-tslint と prettier の追加
+```sh
+$ create-react-app react-hooks-redux-router --typescript
+```
 
-    ライブラリをインストール
+## tslint と prettier の追加
 
-npm i -D tslint tslint-react tslint-config-prettier tslint-plugin-prettier
+### ライブラリをインストール
+
+```sh
+$ npm i -D tslint tslint-react tslint-config-prettier tslint-plugin-prettier
+```
